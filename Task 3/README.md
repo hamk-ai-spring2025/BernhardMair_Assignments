@@ -1,1 +1,2 @@
-** Fairy Tale Generator**
+## Fairy Tale Generator
+
