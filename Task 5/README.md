@@ -11,3 +11,9 @@ The image depicts a collection of vintage tractors displayed at an outdoor event
 The image depicts a dilapidated Shell station located on a rural road. The building itself is painted a faded yellow and shows significant weathering – peeling paint and general disrepair are evident. A vintage gas pump sits adjacent to the building; it’s rusted and partially covered with weeds, suggesting years of neglect. The ‘SHELL’ sign above the entrance is also weathered but still legible. 
 The sky in the background is a soft, warm golden hue indicative of late afternoon light, casting long shadows across the scene. Overgrown vegetation – primarily weeds – surrounds the station, further emphasizing its abandonment and contributing to an atmosphere of quiet solitude and decay. The overall impression is one of nostalgia and a poignant reminder of a simpler era of roadside travel.
 
+---------------------------------------------------------------------------------
+
+1. The original image gets read in using the markitdown library.
+2. The local LLM creates a prompt.
+3. The user can state if the output is only in a TXT-file or to continue. (output.txt)
+4. A replicated image will be created via Replicate (paid service) if the user choses so. (output.png)
