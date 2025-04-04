@@ -2,4 +2,4 @@
 
 Runs locally on LM Studio: model = "gemma-3-4b-it"
 
-![image](https://github.com/user-attachments/assets/d9c88b11-7965-4e34-b384-128aafea667f)
+![image](https://github.com/user-attachments/assets/eb966935-8538-41bd-8bad-eab6a0996770)
