@@ -7,7 +7,9 @@ No error handling included (yet), meaning that wrong parameters cause issues.
 ![image](https://github.com/user-attachments/assets/1798635d-d5d3-446d-8b5a-8ae69f59c825)
 
 Default usage:
-![image](https://github.com/user-attachments/assets/32900c20-3271-4fdd-b2b5-1c94ffe469d5)
+![image](https://github.com/user-attachments/assets/dd64249e-1488-4cf0-981a-66fa5a4a11ee)
+
 
 ==> result:
-![image](https://github.com/user-attachments/assets/3dec5454-e3ec-41af-9971-847cddd83d09)
+![image](https://github.com/user-attachments/assets/4d4c2314-af9e-46b9-8a97-573138589b54)
+
